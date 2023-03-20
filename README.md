@@ -1,4 +1,4 @@
-# Repository_OOP_Example
+# Inventory_OOP_Example
 Working file before GUI
 
 Description: The Capstone Project is an object orientated program which collects details from a txt file before ordering the information for presentation and manipulation. The program is counts, presents, allows for restocking and promoting athletic shoes / sneakers / trainers. 
